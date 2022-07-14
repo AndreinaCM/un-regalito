@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para ti, bebé</title>
+</head>
+
+<style>
+
+    body{
+    
+        background-image: url('uwu.jpg');
+        background-repeat: no-repeat;
+    }
+
+
+    a {
+        display: block;
+        width: 50px;
+        font-family:initial;
+        font-weight: 700;
+        border-radius: 10px;
+        margin: 150px 130px;
+        padding: 15px 30px;
+        background-color: cornflowerblue;
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        background-color: transparent;
+        border: 2px solid cornflowerblue;
+        color: cornflowerblue;
+    }
+
+</style>
+
+<body>
+
+    <a href="https://i.pinimg.com/564x/f3/ae/87/f3ae8730fe99060e19f82a30db2e8d2c.jpg"
+    target="_blank"
+    >Clikea</a>
+    
+</body>
+</html>
